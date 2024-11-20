@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vmux2x1_p
+!i10b 1
+!s100 eC^9BK8j^Q[n[Yn:iVz0S1
+I[gMWoDJ?I@E8g3z6A6g[70
+V9;2>gm`MD87TGmEP@?l3@0
+Z1 dC:\Users\migue\OneDrive\Documentos\lab0\sim
+w1679618449
+Z2 8C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_p.v
+Z3 FC:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_p.v
+L0 6
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1679618454.206000
+!s107 C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_p.v|
+Z5 !s90 -reportprogress|300|-work|work|C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_p.v|
+!s101 -O0
+Z6 o-work work -O0
+vmux2x1_tb
+Z7 !s100 zkHKR_D5AKj5df?Ke2zaN0
+Z8 Io7^2:=h:=3ZH@G>_nVTzV3
+Z9 VM=G=@VgX`>XDOMP?C?L=A0
+R1
+Z10 w1679618291
+Z11 8C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_tb.v
+Z12 FC:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_tb.v
+L0 2
+R4
+r1
+31
+Z13 !s90 -reportprogress|300|-work|work|C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_tb.v|
+R6
+!i10b 1
+!s85 0
+Z14 !s108 1679618454.045000
+Z15 !s107 C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_tb.v|
+!s101 -O0
+vmux_2x1_p
+Z16 IWHjCfabQod6D0beeE]P783
+Z17 VZoWWVL56OMBLVV:f^2nbV0
+R1
+Z18 w1679315503
+R2
+R3
+L0 6
+R4
+r1
+31
+R6
+Z19 !s100 6VZCMW`m]P>:X1><A=h2M3
+Z20 !s108 1679618391.626000
+Z21 !s107 C:/Users/migue/OneDrive/Documentos/lab0/src/mux2x1_p.v|
+R5
+!i10b 1
+!s85 0
+!s101 -O0

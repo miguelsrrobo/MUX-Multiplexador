@@ -1,0 +1,19 @@
+|mux2x1_prj
+a[0] => op.DATAB
+a[1] => op.DATAB
+a[2] => op.DATAB
+a[3] => op.DATAB
+b[0] => op.DATAA
+b[1] => op.DATAA
+b[2] => op.DATAA
+b[3] => op.DATAA
+sel => op.OUTPUTSELECT
+sel => op.OUTPUTSELECT
+sel => op.OUTPUTSELECT
+sel => op.OUTPUTSELECT
+op[0] <= op.DB_MAX_OUTPUT_PORT_TYPE
+op[1] <= op.DB_MAX_OUTPUT_PORT_TYPE
+op[2] <= op.DB_MAX_OUTPUT_PORT_TYPE
+op[3] <= op.DB_MAX_OUTPUT_PORT_TYPE
+
+
